@@ -41,3 +41,9 @@ The Project will use a trunk based branching stategy
 <image src ="/trunk-based-development-branching-strategy.png" width="600"/>
 
 Reasoning for the selected branching strategy is it keeps the merging of branches simple it helps to keep the code relavant by doing frequent and small merges
+
+### Git Ignore
+
+### Repositries OutLine
+
+### How will credentials be stored 
