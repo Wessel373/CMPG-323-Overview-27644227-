@@ -26,4 +26,10 @@ Each of the projects will be submited at a due date. Projects have related tasks
 
 ### Views of the project:
 
-The Project has four views to manage and track the progress of the project 
+####The Project has four views to manage and track the progress of the project:
+
+* Tabular View
+* Linked Assessments View
+* Sprint View
+* Traditional Kanban View
+* Training
