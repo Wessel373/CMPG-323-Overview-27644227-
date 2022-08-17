@@ -40,6 +40,8 @@ The Project will use a trunk based branching stategy
 
 <image src ="/trunk-based-development-branching-strategy.png" width="600"/>
 
+Trunk Based branching uses the approach to have one main master branch and the user only branches out for a single feature per branch. While the master branch is always ready for production.
+
 Reasoning for the selected branching strategy is it keeps the merging of branches simple it helps to keep the code relavant by doing frequent and small merges
 
 ### Git Ignore
