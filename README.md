@@ -44,8 +44,22 @@ Reasoning for the selected branching strategy is it keeps the merging of branche
 
 ### Git Ignore
 
-Git ignore will be used to exclude dependencies and compiled files that is not neccesiary to be on the repositry 
+Git ignore will be used to exclude dependencies and compiled files that is not necessary to be on the repositry. For every file in the project that is not necessary those files would be deleted once and then add a git ignore for that file. So that we do not need to by hand delete the same file over and over when a commit was pushed to the project's master branch.  
 
-### Repositries OutLine
+### Repositries OutLine 
 
-### How will credentials be stored 
+The Repositories consist of 5 seperate repositories as the following:
+
+* CMPG-323-Overview-27644227
+* CMPG-323-API Development-27644227
+* CMPG-323-Web App Project Testing Patterns-27644227
+* CMPG-323-RPA & Testing Project-27644227
+* CMPG-323-Reporting Project-27644227
+
+
+
+### How will credentials be stored:
+
+* The user's credentials or login name will be stored as a String value to be compared on when login process is initiated.
+
+* Password wil not be stord just as plain text it will be stored as hash values so when the user try to login the userinput will be hashed and the hashed values will be compared.
