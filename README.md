@@ -51,10 +51,10 @@ Git ignore will be used to exclude dependencies and compiled files that is not n
 The Repositories consist of 5 seperate repositories as the following:
 
 * CMPG-323-Overview-27644227
-* CMPG-323-API Development-27644227
-* CMPG-323-Web App Project Testing Patterns-27644227
-* CMPG-323-RPA & Testing Project-27644227
-* CMPG-323-Reporting Project-27644227
+* [CMPG-323-API Development-27644227](https://github.com/Wessel373/CMPG-323-API-Development-27644227)
+* [CMPG-323-Web App Project Testing Patterns-27644227](https://github.com/Wessel373/CMPG-323-Web-App-Project-Testing-Patterns-27644227-)
+* [CMPG-323-RPA & Testing Project-27644227](https://github.com/Wessel373/-CMPG-323-RPA-Testing-Project-27644227)
+* [CMPG-323-Reporting Project-27644227](https://github.com/Wessel373/CMPG-323-Reporting-Project-27644227)
 
 
 
