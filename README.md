@@ -44,6 +44,8 @@ Reasoning for the selected branching strategy is it keeps the merging of branche
 
 ### Git Ignore
 
+Git ignore will be used to exclude dependencies and compiled files that is not neccesiary to be on the repositry 
+
 ### Repositries OutLine
 
 ### How will credentials be stored 
