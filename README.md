@@ -50,7 +50,7 @@ Git ignore will be used to exclude dependencies and compiled files that is not n
 
 ### Repositries OutLine 
 
-The Repositories consist of 5 seperate repositories as the following:
+The Repositories consist of 5 seperate repositories as the following(Click on the links to navigate to the repositories):
 
 * CMPG-323-Overview-27644227
 * [CMPG-323-API Development-27644227](https://github.com/Wessel373/CMPG-323-API-Development-27644227)
