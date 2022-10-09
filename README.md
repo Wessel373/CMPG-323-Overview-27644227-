@@ -65,3 +65,6 @@ The Repositories consist of 5 seperate repositories as the following(Click on th
 * The user's credentials or login name will be stored as a String value to be compared on when login process is initiated.
 
 * Password wil not be stord just as plain text it will be stored as hash values so when the user try to login the userinput will be hashed and the hashed values will be compared.
+
+### RPA installation steps **Link** 
+[Geek for Geeks link to RPA steps for installation](https://www.geeksforgeeks.org/how-to-install-uipath-studio-community-edition-for-robotics-process-automation/)
